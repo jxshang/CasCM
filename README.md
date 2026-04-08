@@ -1,6 +1,6 @@
 # CasCM: Modeling Intra- and Inter-Community Evolution for Cascade Popularity Prediction
 
-This is the implementation of CasCM: [ Modeling Intra- and Inter-Community Evolution for Cascade Popularity Prediction, DASFAA 2026].
+This is the implementation of CasCM: [ Modeling Intra- and Inter-Community Evolution for Cascade Popularity Prediction, KSEM 2026].
 
 ## Requirements
 python == 3.9.23
